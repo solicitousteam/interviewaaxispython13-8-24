@@ -1,0 +1,10 @@
+Flask
+Flask-Cors
+pandas
+scikit-learn
+gTTS
+SpeechRecognition
+fuzzywuzzy
+PyMuPDF
+python-docx
+requests
